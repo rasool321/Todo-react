@@ -56,7 +56,7 @@ Todo-react/
 ```
 ## 🔗 Live Preview
 
-👉 [Check out the Live App!](https://your-live-link-here.com)
+👉 [Check out the Live App!](https://todorea.netlify.app/)
 
 ## 🤝 Contributing
 
